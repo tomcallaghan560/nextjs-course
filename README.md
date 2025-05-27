@@ -35,9 +35,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-
-# Git
+# Git Init
 
 1) https://github.com/new nextjs-course
 2) git remote add origin https://github.com/tomcallaghan560/nextjs-course.git
 3) git push -u origin master
+
+# Git Adding Change
+
+1. git add .
+2. git commit -m "Describe what you changed here"
+3. git push origin master
+
+copush "Commit" message does git add change altogether
